@@ -1,2 +1,2 @@
-# scannerlfi
-Scanner LFI par le biais du langage perl
+# scanner com_fabrik
+Scanner CRSF Com_fabrik
